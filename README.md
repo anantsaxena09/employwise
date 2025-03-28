@@ -41,7 +41,6 @@ This will start the app on **http://localhost:3000/**.
 ```
 /src
 │── /components
-│   ├── LoginForm.js
 │   ├── UserList.js
 │   ├── UserCard.js
 │   ├── EditUserForm.js
@@ -51,9 +50,6 @@ This will start the app on **http://localhost:3000/**.
 │   ├── UsersPage.js
 │── /routes
 │   ├── ProtectedRoute.js
-│── /api
-│   ├── auth.js
-│   ├── users.js
 │── App.js
 │── index.js
 │── index.css
