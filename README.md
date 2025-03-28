@@ -1,5 +1,10 @@
 # EmployWise - User Management App
 
+## 🚀 Live Demo
+The project is deployed on Vercel. Click the link below to access it:
+
+🔗 [Live Demo](https://employwise-dusky.vercel.app/)
+
 ## 📌 Project Overview
 EmployWise is a simple user management system that allows users to log in, view a list of users, edit user details, and delete users. The application is built using **React** and utilizes **Reqres API** as a mock backend.
 
